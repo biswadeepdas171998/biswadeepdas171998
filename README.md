@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Full Stack Development
 - 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ... Full stack applications
-- 📫 How to reach me ... biswadeepdas171998@gmail.com
+- 📫 How to reach me ... sd618011@gmail.com
 
 <!---
 biswadeepdas171998/biswadeepdas171998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
